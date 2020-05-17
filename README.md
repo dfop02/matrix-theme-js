@@ -1,4 +1,4 @@
-# matrix-theme-js
+# Matrix Theme JS
 Matrix theme on javascript.
 
 ### How Test?
